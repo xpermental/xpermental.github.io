@@ -1,5 +1,3 @@
 # xpermental.github.io
-PS Plus: Free Games for February 2017
+<B> Free PS+ Games February 2017</B>
 <br>
-<a href="http://blog.us.playstation.com/2017/02/01/ps-plus-free-games-for-february-2017/">Blog post</a>
-<BR>
