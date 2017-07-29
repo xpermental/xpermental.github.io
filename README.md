@@ -16,4 +16,7 @@
 </h1>
 <h1>
 <a href="plusjuly17.html"><B> Free PS+ Games July 2017</B> </a>
+</h1>
+<h1>
+<a href="plusaug17.html"><B> Free PS+ Games August 2017</B> </a>
 </h1><br>
