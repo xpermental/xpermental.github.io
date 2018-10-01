@@ -55,7 +55,7 @@ function eightteen() {
 <a href="plusdec17.html"><B> Free PS+ Games December 2017</B> </a>
 </h4>
 <h4>
-</div>
+
 
 <div id="2018">
 <h4>
@@ -88,5 +88,3 @@ function eightteen() {
 <h4>
 <a href="pluspoct18.html"><B> Free PS+ Games October 2018</B> </a>
 </h4>
-
-</div>
