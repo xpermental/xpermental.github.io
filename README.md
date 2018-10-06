@@ -20,7 +20,7 @@ function eightteen() {
 <button onclick="seventeen(); eightteen();">2017</button>
 <button onclick="eightteen(); seventeen();">2018</button>
 
-<div id="2017" style="display: none;">
+<div id="2017">
 <h4>
 <a href="plusfeb17.html"><B> Free PS+ Games February 2017</B> </a>
 </h4>
