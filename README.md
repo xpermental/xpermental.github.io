@@ -61,5 +61,5 @@
 <a href="plussep18.html"><B> Free PS+ Games September 2018</B> </a>
 </h4>
 <h4>
-<a href="pluspoct18.html"><B> Free PS+ Games October 2018</B> </a>
+<a href="plusoct18.html"><B> Free PS+ Games October 2018</B> </a>
 </h4>
