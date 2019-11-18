@@ -1,6 +1,6 @@
 <h3>2017</h3>
-<button title="Click to show/hide content" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Show/hide</button>
-<div id="spoiler" style="display:none">
+<button title="Click to show/hide content" type="button" onclick="if(document.getElementById('2017') .style.display=='none') {document.getElementById('2017') .style.display=''}else{document.getElementById('2017') .style.display='none'}">Show/hide</button>
+<div id="2017" style="display:none">
 <h4>
 <a href="plusfeb17.html"><B> Free PS+ Games February 2017</B> </a>
 </h4>
@@ -36,8 +36,8 @@
 </h4>
 </div>
 <h3>2018</h3>
-<button title="Click to show/hide content" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Show/hide</button>
-<div id="spoiler" style="display:none">
+<button title="Click to show/hide content" type="button" onclick="if(document.getElementById('2018') .style.display=='none') {document.getElementById('2018') .style.display=''}else{document.getElementById('2018') .style.display='none'}">Show/hide</button>
+<div id="2018" style="display:none">
 <h4>
 <a href="plusjan18.html"><B> Free PS+ Games January 2018</B> </a>
 </h4>
