@@ -1,4 +1,6 @@
 <h3>2017</h3>
+<button title="Click to show/hide content" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Show/hide</button>
+<div id="spoiler" style="display:none">
 <h4>
 <a href="plusfeb17.html"><B> Free PS+ Games February 2017</B> </a>
 </h4>
@@ -32,7 +34,10 @@
 <h4>
 <a href="plusdec17.html"><B> Free PS+ Games December 2017</B> </a>
 </h4>
+</div>
 <h3>2018</h3>
+<button title="Click to show/hide content" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Show/hide</button>
+<div id="spoiler" style="display:none">
 <h4>
 <a href="plusjan18.html"><B> Free PS+ Games January 2018</B> </a>
 </h4>
@@ -63,3 +68,4 @@
 <h4>
 <a href="plusoct18.html"><B> Free PS+ Games October 2018</B> </a>
 </h4>
+</div>
